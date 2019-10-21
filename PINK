@@ -2,7 +2,7 @@
 void main()
 {
 int top1=0,top2=0,s1[100],s2[100],s3[100],m=0,i,n,count;
-printf("enter no of disck\n");
+printf("enter no of disc\n");
 scanf("%d",&n);
 printf("enter no of elements\n");
 for(i=0;i<n;i++)
